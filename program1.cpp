@@ -1,6 +1,5 @@
-// Name: Khanh Le
-// ID:   1001741583
-// Due:  27 Jun 2022
+// Name: Kieran Le
+
 
 #include <iostream>
 #include <string>
